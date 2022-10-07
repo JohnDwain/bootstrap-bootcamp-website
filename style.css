@@ -15,3 +15,7 @@ body::before {
     width: 50%;
   }
 }
+
+.text {
+  color: red;
+}
